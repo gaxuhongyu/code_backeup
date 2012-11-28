@@ -1,0 +1,14 @@
+F:\VS2010_Project\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.dll
+F:\VS2010_Project\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.pdb
+F:\VS2010_Project\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.xml
+F:\VS2010_Project\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.dll.manifest
+F:\VS2010_Project\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.vsto
+F:\VS2010_Project\ExcelAddIn1\ExcelAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+F:\VS2010_Project\ExcelAddIn1\ExcelAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+F:\VS2010_Project\ExcelAddIn1\ExcelAddIn1\obj\Debug\ResolveAssemblyReference.cache
+F:\VS2010_Project\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.Resources.resources
+F:\VS2010_Project\ExcelAddIn1\ExcelAddIn1\obj\Debug\GenerateResource.read.1.tlog
+F:\VS2010_Project\ExcelAddIn1\ExcelAddIn1\obj\Debug\GenerateResource.write.1.tlog
+F:\VS2010_Project\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.dll
+F:\VS2010_Project\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.xml
+F:\VS2010_Project\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.pdb

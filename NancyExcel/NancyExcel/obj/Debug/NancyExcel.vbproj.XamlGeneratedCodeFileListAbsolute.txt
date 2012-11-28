@@ -1,0 +1,2 @@
+obj\Debug\_NancyExcel.g.vb
+obj\Debug\Activity1.g.vb

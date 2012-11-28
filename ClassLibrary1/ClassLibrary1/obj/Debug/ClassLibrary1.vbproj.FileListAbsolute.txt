@@ -1,0 +1,11 @@
+F:\VS2010_Project\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+F:\VS2010_Project\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+F:\VS2010_Project\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.xml
+F:\VS2010_Project\ClassLibrary1\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+F:\VS2010_Project\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.Resources.resources
+F:\VS2010_Project\ClassLibrary1\ClassLibrary1\obj\Debug\GenerateResource.read.1.tlog
+F:\VS2010_Project\ClassLibrary1\ClassLibrary1\obj\Debug\GenerateResource.write.1.tlog
+F:\VS2010_Project\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+F:\VS2010_Project\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.xml
+F:\VS2010_Project\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+F:\VS2010_Project\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.Form1.resources

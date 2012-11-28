@@ -1,0 +1,9 @@
+﻿<xapCache source="G:\VS2010_Project\PivotApp1\PivotApp1\Bin\Debug\PivotApp1.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2012/9/23 12:04:42">
+  <file source="G:\VS2010_Project\PivotApp1\PivotApp1\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2012/9/23 1:39:44" />
+  <file source="G:\VS2010_Project\PivotApp1\PivotApp1\Background.png" archivePath="Background.png" lastWriteTime="2012/9/23 1:39:39" />
+  <file source="G:\VS2010_Project\PivotApp1\PivotApp1\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2012/9/23 1:39:39" />
+  <file source="G:\VS2010_Project\PivotApp1\PivotApp1\obj\Debug\PivotApp1.dll" archivePath="PivotApp1.dll" lastWriteTime="2012/9/23 12:04:42" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="2012/3/19 16:29:06" />
+  <file source="G:\VS2010_Project\PivotApp1\PivotApp1\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="2012/9/23 1:39:39" />
+  <file source="G:\VS2010_Project\PivotApp1\PivotApp1\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2012/9/23 1:39:44" />
+</xapCache>

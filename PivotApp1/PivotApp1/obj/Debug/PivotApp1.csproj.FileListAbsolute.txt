@@ -1,0 +1,15 @@
+G:\VS2010_Project\PivotApp1\PivotApp1\Bin\Debug\ApplicationIcon.png
+G:\VS2010_Project\PivotApp1\PivotApp1\Bin\Debug\Background.png
+G:\VS2010_Project\PivotApp1\PivotApp1\Bin\Debug\PivotApp1.dll
+G:\VS2010_Project\PivotApp1\PivotApp1\Bin\Debug\PivotApp1.pdb
+G:\VS2010_Project\PivotApp1\PivotApp1\Bin\Debug\AppManifest.xaml
+G:\VS2010_Project\PivotApp1\PivotApp1\Bin\Debug\PivotApp1.xap
+G:\VS2010_Project\PivotApp1\PivotApp1\Bin\Debug\Microsoft.Phone.Controls.dll
+G:\VS2010_Project\PivotApp1\PivotApp1\Bin\Debug\Microsoft.Phone.Controls.xml
+G:\VS2010_Project\PivotApp1\PivotApp1\obj\Debug\ResolveAssemblyReference.cache
+G:\VS2010_Project\PivotApp1\PivotApp1\obj\Debug\App.g.i.cs
+G:\VS2010_Project\PivotApp1\PivotApp1\obj\Debug\MainPage.g.i.cs
+G:\VS2010_Project\PivotApp1\PivotApp1\obj\Debug\PivotApp1.g.resources
+G:\VS2010_Project\PivotApp1\PivotApp1\obj\Debug\PivotApp1.dll
+G:\VS2010_Project\PivotApp1\PivotApp1\obj\Debug\PivotApp1.pdb
+G:\VS2010_Project\PivotApp1\PivotApp1\obj\Debug\XapCacheFile.xml
