@@ -1,4 +1,4 @@
-﻿Build started 2012/11/28 23:13:01.
+﻿Build started 2012/12/8 1:38:09.
      1>Project "G:\VS2010_Project\GetReady\single_object\single_object.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Touching "Debug\single_object.unsuccessfulbuild".
@@ -11,19 +11,11 @@
          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\VS2010_Project\GetReady\Debug\single_object.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\single_object.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\VS2010_Project\GetReady\Debug\single_object.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\VS2010_Project\GetReady\Debug\single_object.lib" /MACHINE:X86 Debug\single_object.exe.embed.manifest.res
          Debug\single_object.obj
          Debug\stdafx.obj
-       Manifest:
-         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\single_object.exe.embed.manifest" /manifest Debug\single_object.exe.intermediate.manifest
-         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\single_object.exe.embed.manifest.res" Debug\single_object_manifest.rc 
-       LinkEmbedManifest:
-         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\VS2010_Project\GetReady\Debug\single_object.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\single_object.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\VS2010_Project\GetReady\Debug\single_object.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\VS2010_Project\GetReady\Debug\single_object.lib" /MACHINE:X86 Debug\single_object.exe.embed.manifest.res
-         Debug\single_object.obj
-         Debug\stdafx.obj
-         single_object.vcxproj -> G:\VS2010_Project\GetReady\Debug\single_object.exe
-       FinalizeBuildStatus:
-         Deleting file "Debug\single_object.unsuccessfulbuild".
-         Touching "Debug\single_object.lastbuildstate".
-     1>Done Building Project "G:\VS2010_Project\GetReady\single_object\single_object.vcxproj" (build target(s)).
+     1>single_object.obj : error LNK2019: unresolved external symbol "private: __thiscall FAS::FAS(void)" (??0FAS@@AAE@XZ) referenced in function "public: static class FAS * __cdecl FAS::makeFAS(void)" (?makeFAS@FAS@@SAPAV1@XZ)
+     1>single_object.obj : error LNK2019: unresolved external symbol "private: __thiscall FAS::FAS(class FAS const &)" (??0FAS@@AAE@ABV0@@Z) referenced in function "public: static class FAS * __cdecl FAS::makeFAS(class FAS const &)" (?makeFAS@FAS@@SAPAV1@ABV1@@Z)
+     1>G:\VS2010_Project\GetReady\Debug\single_object.exe : fatal error LNK1120: 2 unresolved externals
+     1>Done Building Project "G:\VS2010_Project\GetReady\single_object\single_object.vcxproj" (build target(s)) -- FAILED.
 
-Build succeeded.
+Build FAILED.
 
-Time Elapsed 00:00:01.36
+Time Elapsed 00:00:01.14

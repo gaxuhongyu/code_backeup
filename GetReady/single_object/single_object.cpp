@@ -34,8 +34,33 @@ protected:
 private:
 };
 
+class FAS
+{
+public:
+	static FAS * makeFAS();
+	static FAS * makeFAS(const FAS& rhs);
+
+protected:
+private:
+	FAS();
+	FAS(const FAS& rhs);
+};
+
+FAS * FAS::makeFAS()
+{
+	return new FAS();
+}
+FAS * FAS::makeFAS(const FAS& rhs)
+{
+	return new FAS(rhs);
+}
 int _tmain(int argc, _TCHAR* argv[])
 {
+	const int n = 10, m = 20;
+	char a[n][m];
+	char (*p)[n];
+// 	n = 20;
+// 	m = 30;
+
 	return 0;
 }
-

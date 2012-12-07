@@ -1,5 +1,5 @@
-﻿Build started 2012/11/28 23:05:44.
-     1>Project "G:\VS2010_Project\GetReady\GetReady_0\GetReady_0.vcxproj" on node 2 (build target(s)).
+﻿Build started 2012/12/8 1:38:09.
+     1>Project "G:\VS2010_Project\GetReady\GetReady_0\GetReady_0.vcxproj" on node 3 (build target(s)).
      1>InitializeBuildStatus:
          Touching "Debug\GetReady_0.unsuccessfulbuild".
        ClCompile:
@@ -17,4 +17,4 @@
 
 Build FAILED.
 
-Time Elapsed 00:00:00.41
+Time Elapsed 00:00:00.77
